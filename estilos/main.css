@@ -1,0 +1,66 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* estilos generales */ 
+
+
+body{
+    background-color: #171212 ;
+}
+
+header{
+    text-align: center;
+}
+
+header nav ul li{
+    list-style: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+/* estilos de inicio */
+/*main*/
+
+main{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+
+/*footer*/
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+/* estilos de productos */
+/* main */
+
+.main-productos div a{
+    text-decoration: none;
+    color: darkgray;
+}
+
+main{
+    margin-top: 10px;
+    color: ghostwhite;
+    text-align: center;
+}
+
+/* estilo de contacto */ 
+
+.main-contacto div a {
+    text-decoration: none;
+    color: darkslategray;
+} 
